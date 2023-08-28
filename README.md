@@ -30,8 +30,7 @@
 
 <details>
 <summary>
-
-I **code** in the dark of my room 👨‍💻
+I <strong>code</strong> in the dark of my room 👨‍💻
 </summary>
 <div align="right">
 
@@ -43,22 +42,20 @@ And I predict my data, **forecasting** from afar (oh)
 
 <details>
 <summary>
-
-And I **study now**, the current state 💻
+And I <strong>study now</strong>, the current state 💻
 </summary>
 <div align="right">
 
-Of Rust and Julia to seal my fate (oh)  
-And in Python, I find my worth
-"SQL", ain't that the geekiest you ever heard?
+Of **Rust** and **Julia** to seal my fate (oh)  
+And in **Python**, I find my worth  
+"**SQL**", ain't that the geekiest you ever heard?  
 I write those, grinding like a coder
 </div>
 </details>
 
 <details>
 <summary>
-
-It's new, commit of my **projects**:
+It's new, commit of my <strong>projects</strong> 📊 :
 </summary>
 <div align="right">
 
@@ -70,8 +67,7 @@ It's new, commit of my **projects**:
 
 <details>
 <summary>
-
-It's true, the **portfolios**:
+It's true, the <strong>portfolios</strong> 🤖 :
 </summary>
 <div align="right">
 
@@ -81,5 +77,5 @@ It's true, the **portfolios**:
 </div>
 </details>
 
-And reach me, whoa oh  
+And it's ooh, whoa oh  
 Here's my [*book number*](https://beacons.ai/ranggakd)
