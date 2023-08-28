@@ -1,18 +1,7 @@
-### Hi there 👋
+### Hi there 👋 - Rangga (GitHub's Version)
 
 <!--
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <details>
 <summary>
@@ -32,6 +21,12 @@ Here are some ideas to get you started:
 </details>
 
 -->
+
+> *It's cool, that's why you click 'em*  
+*Code rules, collapsible heaven*  
+*But ooh, whoa oh*  
+*It's a cruel coder*  
+*With me*
 
 🔭 I’m currently working on ...
 
