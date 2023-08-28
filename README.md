@@ -22,30 +22,64 @@
 
 -->
 
-> *It's cool, that's why you click 'em*  
-*Code rules, collapsible heaven*  
+> *It's cool, that's why you* ***click*** *'em*  
+*Code rules,* ***collapsible*** *heaven*  
 *But ooh, whoa oh*  
 *It's a cruel coder*  
 *With me*
 
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning ...
-
-👯 I’m looking to collaborate on ...
-
-📫 Reach me: ...
-
 <details>
-    <summary>
-What is your pronouns? 🕺
-    </summary>
-    <div align="right">
+<summary>
 
- 🇬🇧 | 🇮🇩
- ---| --- 
-he/him/his | dia/dia/dia (*cinta yang ku tunggu tunggu tunggu*)    
+I **code** in the dark of my room 👨‍💻
+</summary>
+<div align="right">
+
+And I predict my data, **forecasting** from afar (oh)  
+"**Unittest**," but it's not just a few  
+**Data analysis** keeps me on cue
 </div>
 </details>
 
-⚡ Fun fact: ...
+<details>
+<summary>
+
+And I **study now**, the current state 💻
+</summary>
+<div align="right">
+
+Of Rust and Julia to seal my fate (oh)  
+And in Python, I find my worth
+"SQL", ain't that the geekiest you ever heard?
+I write those, grinding like a coder
+</div>
+</details>
+
+<details>
+<summary>
+
+It's new, commit of my **projects**:
+</summary>
+<div align="right">
+
+[Project1](link1)
+[Project1](link1)
+[Project1](link1)
+</div>
+</details>
+
+<details>
+<summary>
+
+It's true, the **portfolios**:
+</summary>
+<div align="right">
+
+[Portfolio](link1)
+[Portfolio](link1)
+[Portfolio](link1)
+</div>
+</details>
+
+And reach me, whoa oh  
+Here's my [*book number*](https://beacons.ai/ranggakd)
