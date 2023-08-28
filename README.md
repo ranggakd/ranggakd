@@ -3,12 +3,16 @@
 <!--
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+> *It's cool, that's why you* ***click*** *'em*  
+*Code rules,* ***collapsible*** *heaven*  
+*But ooh, whoa oh*  
+*It's a cruel coder*  
+
 <details>
 <summary>
-👉👈
+With <strong>me</strong>
 </summary>
-
-### Oh, hello there! 👋
+<center>
 
 |  | I'm a / an |
 | :--- | :---: |
@@ -18,15 +22,8 @@
 | Statistics & Math Addict | ✔ |
 | Open Source Contributor | ✔ |
 | Quantum Computing Enthusiast | ✔ |
+</center>
 </details>
-
-
-
-> *It's cool, that's why you* ***click*** *'em*  
-*Code rules,* ***collapsible*** *heaven*  
-*But ooh, whoa oh*  
-*It's a cruel coder*  
-*With me*
 
 <details>
 <summary>
