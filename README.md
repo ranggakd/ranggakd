@@ -60,8 +60,11 @@ It's new, commit of my <strong>projects</strong> 📊 :
 <div align="right">
 
 [Project1](link1)
+
 [Project1](link1)
+
 [Project1](link1)
+
 </div>
 </details>
 
@@ -72,8 +75,11 @@ It's true, the <strong>portfolios</strong> 🤖 :
 <div align="right">
 
 [Portfolio](link1)
+
 [Portfolio](link1)
+
 [Portfolio](link1)
+
 </div>
 </details>
 
