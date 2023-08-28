@@ -20,7 +20,7 @@
 | Quantum Computing Enthusiast | ✔ |
 </details>
 
--->
+
 
 > *It's cool, that's why you* ***click*** *'em*  
 *Code rules,* ***collapsible*** *heaven*  
@@ -85,3 +85,5 @@ It's true, the <strong>portfolios</strong> 🤖 :
 
 And it's ooh, whoa oh  
 Here's my [*book number*](https://beacons.ai/ranggakd)
+
+-->
