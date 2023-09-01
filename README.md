@@ -60,7 +60,6 @@ I write those, grinding like a coder
 <summary>
 It's new, commit of my <strong>projects</strong> 📊 :
 </summary>
-<div align="right">
 
 | Project | Medium Story | DEV Blog |
 | :---: | :---: | :---: |
@@ -69,22 +68,18 @@ It's new, commit of my <strong>projects</strong> 📊 :
 | [Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | | [👨‍💻](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km) |
 | [Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb) | |
 | [Fantastic Docs and Where to Find Them](https://github.com/ranggakd/DAIly/blob/main/tips/Fantastic_Docs_and_Where_to_Find_Them.ipynb) | [📖](https://medium.com/@ranggakd/fantastic-docs-and-where-to-find-them-27357e23429) |
-
-</div>
 </details>
 
 <details>
 <summary>
 It's true, the <strong>contributions</strong> 🤖 :
 </summary>
-<div align="right">
 
 | In English | Dalam Bahasa Indonesia |
 | :---: | :---: |
 | [Pre-Introduction BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet) |
 | | [Repository Link Donasi Palestina](https://github.com/ranggakd/Bantu_Palestina) |
 | [Issue & Pull Requested - Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
-</div>
 </details>
 
 And it's ooh, whoa oh  
