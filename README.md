@@ -4,7 +4,6 @@
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 TODO:
-- Finish up the clean-code-php ENG and IND and send the email to the earliest maintainer
 - Finish up the faster code, Medium Story and DEV Blog of Basic Steganography
 - Finish up the base64ed repo and deploy the github pages of it
 - Finish up the BookMan repo
@@ -63,15 +62,13 @@ It's new, commit of my <strong>projects</strong> 📊 :
 </summary>
 <div align="right">
 
-[Regression and Forecasting Metrics Exploration](https://github.com/ranggakd/DAIly/blob/main/ideas/regression_forecasting_metrics/Metrics_Exploration.ipynb) | [Medium Story](https://medium.com/@ranggakd/forecasting-metrics-im-new-i-tried-let-s-talk-f6208c55bc3b) | [DEV Blog](https://dev.to/ranggakd/so-i-explored-forecasting-metrics-now-i-want-your-two-cents-30p0)
-
-[Goodbye Average Rating System Hello Helpful Rating System](https://github.com/ranggakd/DAIly/blob/main/ideas/helpful_rating_system/Goodbye_Average_Rating_System_Hello_Helpful_Rating_System.ipynb) | [Medium Story](https://medium.com/@ranggakd/rating-system-is-not-credible-anymore-so-i-propose-a-new-one-24d4b5926702) | [DEV Blog](https://dev.to/ranggakd/beyond-stars-the-helpful-rating-system-outshines-traditional-5-star-reviews-4ahe)
-
-[Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | [DEV Blog](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km)
-
-[Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb)
-
-[Fantastic Docs and Where to Find Them](https://github.com/ranggakd/DAIly/blob/main/tips/Fantastic_Docs_and_Where_to_Find_Them.ipynb) | [Medium Story](https://medium.com/@ranggakd/fantastic-docs-and-where-to-find-them-27357e23429)
+| Project | Medium Story | DEV Blog |
+| :---: | :---: | :---: |
+| [Regression and Forecasting Metrics Exploration](https://github.com/ranggakd/DAIly/blob/main/ideas/regression_forecasting_metrics/Metrics_Exploration.ipynb) | [📖](https://medium.com/@ranggakd/forecasting-metrics-im-new-i-tried-let-s-talk-f6208c55bc3b) | [👨‍💻](https://dev.to/ranggakd/so-i-explored-forecasting-metrics-now-i-want-your-two-cents-30p0) |
+| [Goodbye Average Rating System Hello Helpful Rating System](https://github.com/ranggakd/DAIly/blob/main/ideas/helpful_rating_system/Goodbye_Average_Rating_System_Hello_Helpful_Rating_System.ipynb) | [📖](https://medium.com/@ranggakd/rating-system-is-not-credible-anymore-so-i-propose-a-new-one-24d4b5926702) | [👨‍💻](https://dev.to/ranggakd/beyond-stars-the-helpful-rating-system-outshines-traditional-5-star-reviews-4ahe) |
+| [Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | | [👨‍💻](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km) |
+| [Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb) | |
+| [Fantastic Docs and Where to Find Them](https://github.com/ranggakd/DAIly/blob/main/tips/Fantastic_Docs_and_Where_to_Find_Them.ipynb) | [📖](https://medium.com/@ranggakd/fantastic-docs-and-where-to-find-them-27357e23429) |
 
 </div>
 </details>
@@ -82,10 +79,11 @@ It's true, the <strong>contributions</strong> 🤖 :
 </summary>
 <div align="right">
 
-[Pre-Introduction BigOCheatSheet in English](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet dalam Bahasa Indonesia](https://github.com/ranggakd/BigOCheatSheet)
-
-[Repository Link Donasi Palestina dalam Bahasa Indonesia](https://github.com/ranggakd/Bantu_Palestina)
-
+| In English | Dalam Bahasa Indonesia |
+| :---: | :---: |
+| [Pre-Introduction BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet) |
+| | [Repository Link Donasi Palestina](https://github.com/ranggakd/Bantu_Palestina) |
+| [Issue & Pull Requested - Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
 </div>
 </details>
 
