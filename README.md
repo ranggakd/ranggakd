@@ -79,7 +79,7 @@ It's true, the <strong>contributions</strong> 🤖 :
 | :---: | :---: |
 | [Pre-Introduction BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet) |
 | | [Repository Link Donasi Palestina](https://github.com/ranggakd/Bantu_Palestina) |
-| [Issue & Pull Requested - Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
+| [Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
 </details>
 
 And it's ooh, whoa oh  
