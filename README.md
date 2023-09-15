@@ -4,7 +4,6 @@
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 TODO:
-- Finish up the faster code, Medium Story and DEV Blog of Basic Steganography
 - Finish up the base64ed repo and deploy the GitHub pages of it
 - Finish up the BookMan repo
 -->
@@ -66,7 +65,7 @@ It's new, commit of my <strong>projects</strong> 📊 :
 | [Regression and Forecasting Metrics Exploration](https://github.com/ranggakd/DAIly/blob/main/ideas/regression_forecasting_metrics/Metrics_Exploration.ipynb) | [📖](https://medium.com/@ranggakd/forecasting-metrics-im-new-i-tried-let-s-talk-f6208c55bc3b) | [👨‍💻](https://dev.to/ranggakd/so-i-explored-forecasting-metrics-now-i-want-your-two-cents-30p0) |
 | [Goodbye Average Rating System Hello Helpful Rating System](https://github.com/ranggakd/DAIly/blob/main/ideas/helpful_rating_system/Goodbye_Average_Rating_System_Hello_Helpful_Rating_System.ipynb) | [📖](https://medium.com/@ranggakd/rating-system-is-not-credible-anymore-so-i-propose-a-new-one-24d4b5926702) | [👨‍💻](https://dev.to/ranggakd/beyond-stars-the-helpful-rating-system-outshines-traditional-5-star-reviews-4ahe) |
 | [Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | | [👨‍💻](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km) |
-| [Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb) | | [👨‍💻](https://dev.to/ranggakd/exploring-steganography-in-the-wild-part-1-5hll) |
+| [Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb) | [📖](https://medium.com/@ranggakd/exploring-steganography-in-the-wild-part-1-ea48e10ca607) | [👨‍💻](https://dev.to/ranggakd/exploring-steganography-in-the-wild-part-1-5hll) |
 | [Fantastic Docs and Where to Find Them](https://github.com/ranggakd/DAIly/blob/main/tips/Fantastic_Docs_and_Where_to_Find_Them.ipynb) | [📖](https://medium.com/@ranggakd/fantastic-docs-and-where-to-find-them-27357e23429) | |
 | | | [Python & SQL Online Judge Solutions](https://dev.to/ranggakd/series/20410) |
 | | | [Data Catalog & Discovery](https://dev.to/ranggakd/series/16098) |
