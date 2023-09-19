@@ -4,6 +4,9 @@
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 TODO:
+- Make a github readme like:
+    https://github.com/drkostas
+    https://github.com/eddiejaoude
 - Finish up the base64ed repo and deploy the GitHub pages of it
 - Finish up the BookMan repo
 -->
@@ -70,6 +73,7 @@ It's new, commit of my <strong>projects</strong> 📊 :
 | | | [Python & SQL Online Judge Solutions](https://dev.to/ranggakd/series/20410) |
 | | | [Data Catalog & Discovery](https://dev.to/ranggakd/series/16098) |
 | | | [All About Testing](https://dev.to/ranggakd/series/22338) |
+| | | [Dart Language](https://dev.to/ranggakd/series/24664) |
 </details>
 
 <details>
