@@ -1,4 +1,4 @@
-### Hi there 👋 - Rangga (GitHub's Version)
+### Hi there 👋 - Rangga Here
 
 <!--
 **ranggakd/ranggakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,14 +11,28 @@ TODO:
 - Finish up the BookMan repo
 -->
 
-> *It's cool, that's why you* ***click*** *'em*  
-*Code rules,* ***collapsible*** *heaven*  
-*But ooh, whoa oh*  
-*It's a cruel coder*  
+<a href='https://www.linkedin.com/in/ranggakd/'>
+    <img src='https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin'>
+</a>
+<a href='https://dev.to/ranggakd'>
+    <img src='https://img.shields.io/badge/-DEV-black?logo=dev.to'>
+</a>
+<a href='https://medium.com/@ranggakd'>
+    <img src='https://img.shields.io/badge/-Medium-black?logo=medium'>
+</a>
+<a href='https://twitter.com/retiagod'>
+    <img src='https://img.shields.io/badge/-Twitter-black?logo=twitter'>
+</a>
+<a href='mailto:ranggakusumad@gmail.com'>
+    <img src='https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white'>
+</a>
+<a href='https://wa.me/6281224627162'>
+    <img src='https://img.shields.io/badge/-WhatsApp-lime?logo=whatsapp&logoColor=white'>
+</a>
 
 <details>
 <summary>
-With <strong>me</strong>
+Who I <strong>am</strong>
 </summary>
 <center>
 
@@ -33,34 +47,9 @@ With <strong>me</strong>
 </center>
 </details>
 
-<details>
+<details open>
 <summary>
-I <strong>code</strong> in the dark of my room 👨‍💻
-</summary>
-<div align="right">
-
-And I predict my data, **forecasting** from afar (oh)  
-"**Unittest**," but it's not just a few  
-**Data analysis** keeps me on cue
-</div>
-</details>
-
-<details>
-<summary>
-And I <strong>study now</strong>, the current state 💻
-</summary>
-<div align="right">
-
-Of **Rust** and **Julia** to seal my fate (oh)  
-And in **Python**, I find my worth  
-"**SQL**", ain't that the geekiest you ever heard?  
-I write those, grinding like a coder
-</div>
-</details>
-
-<details>
-<summary>
-It's new, commit of my <strong>projects</strong> 📊 :
+My <strong>projects</strong> 📊 :
 </summary>
 
 | Project | Medium Story | DEV Blog |
@@ -76,9 +65,9 @@ It's new, commit of my <strong>projects</strong> 📊 :
 | | | [Dart Language](https://dev.to/ranggakd/series/24664) |
 </details>
 
-<details>
+<details open>
 <summary>
-It's true, the <strong>contributions</strong> 🤖 :
+My <strong>contributions</strong> 🤖 :
 </summary>
 
 | In English | Dalam Bahasa Indonesia |
@@ -88,5 +77,8 @@ It's true, the <strong>contributions</strong> 🤖 :
 | [Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
 </details>
 
-And it's ooh, whoa oh  
-Here's my [*book number*](https://beacons.ai/ranggakd)
+My single source of [*links*](https://beacons.ai/ranggakd)
+
+<a href='https://beacons.ai/ranggakd'>
+    <img src='https://img.shields.io/badge/-Beacons AI-white?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjkwMCIgdmlld0JveD0iMCAwIDkwMCA5MDAiIGNsYXNzPSJoLTkgdy05IGN1cnNvci1wb2ludGVyIiBmaWxsPSJibGFjayI+PGcgdHJhbnNmb3JtPSJzY2FsZSgxMC4zNDQ4Mjc1ODYyMDY4OTcpIHRyYW5zbGF0ZSgxMCwgMTApIj48ZGVmcyBpZD0iU3ZnanNEZWZzNDk0MyI+PC9kZWZzPjxnIGlkPSJTdmdqc0c0OTQ0IiBmZWF0dXJla2V5PSJyb290Ij48L2c+PGcgaWQ9IlN2Z2pzRzQ5NDUiIGZlYXR1cmVrZXk9InN5bWJvbDEiIHRyYW5zZm9ybT0ibWF0cml4KDAuNzkyNzUxOTU0NDgxNDYxMywwLDAsMC43OTI3NTE5NTQ0ODE0NjEzLC00LjIwMTU4NTUwOTk1NzE4LC01LjM5MDcxMjY4NTY1MjE5NCkiPjxnIGlkPSJTdmdqc0c0OTQ2Ij48Y2lyY2xlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY3g9IjM3LjQiIGN5PSIyNy41IiByPSIyMC43Ij48L2NpcmNsZT48Y2lyY2xlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY3g9Ijc0LjYiIGN5PSIyNC42IiByPSIxMC40Ij48L2NpcmNsZT48Y2lyY2xlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY3g9IjE1LjciIGN5PSI1NS4zIiByPSIxMC40Ij48L2NpcmNsZT48Y2lyY2xlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY3g9IjcyIiBjeT0iNjIuMiIgcj0iMjEuNiI+PC9jaXJjbGU+PGNpcmNsZSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGN4PSIzNS4xIiBjeT0iNzguMyIgcj0iMTMiPjwvY2lyY2xlPjwvZz48L2c+PC9nPjwvc3ZnPg=='>
+</a>
