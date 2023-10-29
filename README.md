@@ -58,6 +58,7 @@ My <strong>projects</strong> 📊 :
 | Project | Medium Story | DEV Blog |
 | :---: | :---: | :---: |
 | [German Credit EDA - Mercury Interactive Presentation](https://ranggakd.runmercury.com/app/german_credit_eda_with_mercury_presentation) | | |
+| [Regression-Forecasting Metric Exploration with Mercury Dashboard](https://ranggakd.runmercury.com/app/metrics_exploration_with_mercury) | | |
 | [Regression and Forecasting Metrics Exploration](https://github.com/ranggakd/DAIly/blob/main/ideas/regression_forecasting_metrics/Metrics_Exploration.ipynb) | [📖](https://medium.com/@ranggakd/forecasting-metrics-im-new-i-tried-let-s-talk-f6208c55bc3b) | [👨‍💻](https://dev.to/ranggakd/so-i-explored-forecasting-metrics-now-i-want-your-two-cents-30p0) |
 | [Goodbye Average Rating System Hello Helpful Rating System](https://github.com/ranggakd/DAIly/blob/main/ideas/helpful_rating_system/Goodbye_Average_Rating_System_Hello_Helpful_Rating_System.ipynb) | [📖](https://medium.com/@ranggakd/rating-system-is-not-credible-anymore-so-i-propose-a-new-one-24d4b5926702) | [👨‍💻](https://dev.to/ranggakd/beyond-stars-the-helpful-rating-system-outshines-traditional-5-star-reviews-4ahe) |
 | [Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | | [👨‍💻](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km) |
