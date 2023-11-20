@@ -73,11 +73,18 @@ My <strong>projects</strong> 📊 :
 My <strong>contributions</strong> 🤖 :
 </summary>
 
-| In English | Dalam Bahasa Indonesia |
+| Merged Pull Request in Open Source | Miscellaneous |
 | :---: | :---: |
-| [Pre-Introduction BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet) |
+| [Mercury - Enhance Docstrings](https://github.com/mljar/mercury/pull/393) | [Twitter](https://twitter.com/RunMercury/status/1722191908666065129) - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7127956602422198272/) |
+| [Skorch - Add Citation](https://github.com/skorch-dev/skorch/pull/793) |  |
+
+| Other English Contribution | Kontribusi lain dalam Bahasa Indonesia |
+| :---: | :---: |
 | | [Repository Link Donasi Palestina](https://github.com/ranggakd/Bantu_Palestina) |
+| [Pre-Introduction BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet/tree/pr_only) | [Pra-Pendahuluan BigOCheatSheet](https://github.com/ranggakd/BigOCheatSheet) |
 | [Clean Code PHP with Refactoring section](https://github.com/ranggakd/clean-code-php/tree/pr_only) | [Kode Bersih PHP dengan bagian pemfaktoran ulang](https://github.com/ranggakd/clean-code-php) |
+
+
 </details>
 
 My single source of [*links*](https://beacons.ai/ranggakd)
