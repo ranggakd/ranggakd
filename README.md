@@ -62,9 +62,9 @@ My <strong>projects</strong> 📊 :
 | [Extract Smart Contract Address Using GraphQL API](https://github.com/ranggakd/DAIly/blob/main/projects/ethereum_address/Extract_Smart_Contract_Address_Using_GraphQL_API.ipynb) | | [👨‍💻](https://dev.to/ranggakd/leveraging-graphql-api-over-web-scraping-a-backend-approach-14km) |
 | [Basic Steganography](https://github.com/ranggakd/steganography/blob/main/Exploring_Steganography_In_The_Wild_Part_1.ipynb) | [📖](https://medium.com/@ranggakd/exploring-steganography-in-the-wild-part-1-ea48e10ca607) | [👨‍💻](https://dev.to/ranggakd/exploring-steganography-in-the-wild-part-1-5hll) |
 | [Fantastic Docs and Where to Find Them](https://github.com/ranggakd/DAIly/blob/main/tips/Fantastic_Docs_and_Where_to_Find_Them.ipynb) | [📖](https://medium.com/@ranggakd/fantastic-docs-and-where-to-find-them-27357e23429) | |
-| | | [Python & SQL Online Judge Solutions](https://dev.to/ranggakd/series/20410) |
 | | | [Data Catalog & Discovery](https://dev.to/ranggakd/series/16098) |
 | | | [All About Testing](https://dev.to/ranggakd/series/22338) |
+| | | [Python & SQL Online Judge Solutions](https://dev.to/ranggakd/series/20410) |
 | | | [Dart Language](https://dev.to/ranggakd/series/24664) |
 </details>
 
